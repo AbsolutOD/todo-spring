@@ -1,0 +1,8 @@
+spring:
+  application:
+    name=todo-app
+
+#  datasource:
+#    url=jdbc:postgresql://localhost:5432/todo
+#    username=todo_app
+#    password=l3tm31n
